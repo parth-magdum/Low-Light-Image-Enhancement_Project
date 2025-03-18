@@ -47,7 +47,7 @@ class Window(QMainWindow, Ui_MainWindow):
 
         self._illuMapWindowFlag = False
 
-        self.history_path = os.path.join("LIME", "GUI", "resource", "config", ".history")
+        self.history_path = os.path.join("", "GUI", "resource", "config", ".history")
 
         with open(self.history_path, 'r') as fp:
             self.action1 = self.recentOpenMenu.addAction(fp.readline())
