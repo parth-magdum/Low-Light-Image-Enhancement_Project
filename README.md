@@ -24,7 +24,7 @@ This is a python version of low-light image enhancement.
 		<td><img src="data/R10.bmp" alt="R3" width="300px"></td>
 	</tr>
 	<tr>
-		<td colspan="2"><img src="resource/image/mainwindow.png" alt="App Screenshot" width="630px"></td>
+		<td colspan="2"><img src="GUI/resource/image/mainwindow.png" alt="App Screenshot" width="630px"></td>
 	</tr>
 </table>
 
